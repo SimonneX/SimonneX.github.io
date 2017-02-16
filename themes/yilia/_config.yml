@@ -2,7 +2,7 @@
 
 menu:
   主页: /
-  随笔: false
+  # 随笔: false
 
 # SubNav
 subnav:
