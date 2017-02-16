@@ -1,1 +1,1 @@
-[{"title":"HelloWorld","date":"2017-02-15T09:14:41.000Z","path":"2017/02/15/HelloWorld/","text":"","tags":[]}]
+[{"title":"Markdwon的一些简单语法","date":"2017-02-16T06:33:57.000Z","path":"2017/02/16/markdown-test/","text":"本文主要介绍一些简单的markdown语法 展示的方式如下:效果1代码 粗体1**粗体** 斜体1*斜体* 删除线1~~删除线~~ 链接1[链接](http://google.com) 列表1 列表2 选项1 选项21234- 列表1- 列表2 - 选项1 - 选项2 引用一些话 1&gt; 引用一些话 1![图片](test.jpg)","tags":[{"name":"Markdown","slug":"Markdown","permalink":"https://simonnex.github.io/tags/Markdown/"}]}]
