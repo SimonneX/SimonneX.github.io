@@ -1,23 +1,23 @@
 ---
-title: Markdwon的一些简单语法
+title: Markdwon的一些简单示例
 date: 2017-02-16 14:33:57
 tags:
     - Markdown
 categories:
-    - Markdown学习
+    - Markdown
 ---
 
-本文主要介绍一些简单的markdown语法
+本文主要展示了一些markdown的简单示例，适合一些需要快上上手markdown的初学者
 
 <!--more-->
 
-展示的方式如下:
-效果
-```
-代码
-```
----
+## 示例的展示方式
 
+\>>>效果显示在这里<<<
+```
+>>>代码放在这里<<<
+```
+## 示例开始的分隔符
 **粗体**
 ```
 **粗体**
@@ -55,9 +55,9 @@ categories:
 > 引用一些话
 ```
 ---
-![图片](test.jpg)
+![DVA爱你哟](test.jpg)()
 ```
-![图片](test.jpg)
+![图片描述](test.jpg)
 ```
 
 
